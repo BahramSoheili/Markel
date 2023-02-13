@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Markel.CostomerService", "MarkelEndpoints\Markel.CostomerService.csproj", "{D9E7F34C-F2BD-49DB-A479-1531116BDAB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompanyTest", "CompanyTest\CompanyTest.csproj", "{9F079E3A-6959-4F20-AD3C-04AF7EDDAB64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9E7F34C-F2BD-49DB-A479-1531116BDAB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9E7F34C-F2BD-49DB-A479-1531116BDAB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9E7F34C-F2BD-49DB-A479-1531116BDAB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9E7F34C-F2BD-49DB-A479-1531116BDAB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F079E3A-6959-4F20-AD3C-04AF7EDDAB64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F079E3A-6959-4F20-AD3C-04AF7EDDAB64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F079E3A-6959-4F20-AD3C-04AF7EDDAB64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F079E3A-6959-4F20-AD3C-04AF7EDDAB64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA9DFA9B-C1C1-4705-8587-DB8CF32531FF}
+	EndGlobalSection
+EndGlobal
